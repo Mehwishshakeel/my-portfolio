@@ -23,7 +23,7 @@ const Contact = () => {
       Contact
       </h2>
       <p className="leading-relaxed mb-5 text-gray-600">
-      Feel free to reach out anytime, I'm always happy to help!
+      Feel free to reach out anytime, I am always happy to help!
       </p>
       <div className="relative mb-4">
         <label htmlFor="email" className="leading-7 text-sm text-gray-600">

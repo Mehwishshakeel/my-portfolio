@@ -29,7 +29,7 @@ const Project = () => {
              Resume Builder
             </h1>
             <p className="leading-relaxed">
-            I've developed an interactive HTML/CSS resume builder that empowers individuals to create visually appealing and professional resumes.
+            I have developed an interactive HTML/CSS resume builder that empowers individuals to create visually appealing and professional resumes.
              This user-friendly tool allows users to customize their resumes with ease, ensuring they make a strong first impression in their job applications.
             </p>
             <Link target='_blank' href={"https://vercel.com/mehwish-shakeels-projects"} >
